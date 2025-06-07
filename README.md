@@ -1,35 +1,41 @@
 # Kedhar Eashwar Seetammagari
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kedhar-eashwar-seetammagari-447b20228/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)](https://github.com/BlachThunder6302)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&style=flat-square)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kedhar-eashwar-seetammagari-447b20228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/BlachThunder6302" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ### Hi there 👋
 
 I'm a passionate AI & Machine Learning developer currently pursuing my Master's degree at the University of Limerick, with a focus on building impactful, real-world solutions.
 
-[![Kedhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlachThunder6302&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlachThunder6302&layout=compact&theme=tokyonight" alt="Top Languages">
+  </a>
+</p>
 
 ---
 
-## 👨‍🎓 Profession / Current Role
+## 🛠️ My Tech Stack
 
-**MSc Student in Artificial Intelligence & Machine Learning** *University of Limerick*
-
----
-
-## 🛠️ Top Skills & Technologies
-
-- **Programming:** Python
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Scikit-learn
-- **Cloud:** AWS (Bedrock, EC2, S3)
-- **Containerization:** Docker
-- **Areas:** Deep Reinforcement Learning (DRL), Generative AI, NLP, Computer Vision, Evolutionary Algorithms
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face">
+</p>
 
 ---
 
@@ -57,19 +63,12 @@ I'm a passionate AI & Machine Learning developer currently pursuing my Master's 
 
 ---
 
-## 🌱 Interests & Hobbies
+## 🌱 Interests
 
 - AI for Real-World Problem Solving
 - AI Ethics & Governance
 - Game AI Development
 - Event Leadership
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/kedhar-eashwar-seetammagari-447b20228/)
-- [GitHub](https://github.com/BlachThunder6302)
 
 ---
 
